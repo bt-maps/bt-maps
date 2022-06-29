@@ -5,5 +5,5 @@ I am a dedicated geospatial technologist with an interest in system architecture
 
 - 🌎 I’m currently working on Lua web apps, realtime geospatial app servers, prototypes, spatial indexes.
 - 🌱 I’m currently learning Elixir, C, LuaJIT ffi
-- 📫 How to reach me: brent@mappist.io
+- 📫 How to reach me: brent at mappist.io
 
